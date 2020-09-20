@@ -1,4 +1,4 @@
-* # I love football this is my team
+# I love football this is my team
 
 * Is the best team of all times
 

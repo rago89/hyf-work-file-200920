@@ -1,4 +1,4 @@
-# Hi my name is Tahmmina
+# Hi my name is Tahmina
 
 I'm from Afghanistan
 
