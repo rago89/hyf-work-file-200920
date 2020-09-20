@@ -1,6 +1,6 @@
 # Best team ever
 
-* [Rafael](/Rafael)
-* [Preeti](/Preeti)
-* [Tahmmina](/Tahmmina)
-* [Brian](/Brian)
+* [Rafael](/HYF/Rafael.md)
+* [Preeti](/Preeti.md)
+* [Tahmmina](/Tahmmina.md)
+* [Brian](/Brian.md)
