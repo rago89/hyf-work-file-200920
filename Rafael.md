@@ -10,3 +10,18 @@
 
 1. Eden Hazard
 2. Thibaut Courtois
+3. Vinicius Júnior
+4. Rodrygo
+5. Mariano
+6. Lucas Vázquez
+7. Luka Jović
+8. Karim Benzema
+9. Gareth Bale
+10. Federico Valverde
+11. Reinier
+12. Luka Modrić
+13. Marco Assencio
+14. Toni Kroos
+15. Isco
+16. Casemiro
+17. Brahim Dias
