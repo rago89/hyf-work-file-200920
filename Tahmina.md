@@ -2,7 +2,7 @@
 
 I'm from Afghanistan
 
-## My hobbies are':'
+## My hobbies are
 
 * _Watch **movies**_
 * **_Cooking_**
